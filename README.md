@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python,C,C++.<br>📫 How to reach me devanshusurana2003@gmail.com<br>📄 Know about my experiences [Just made a DBMS + OOCCJ project.](Just made a DBMS + OOCCJ project.)<br>
+🌱 I’m currently learning Python,C,C++.<br>📫 How to reach me devanshusurana2003@gmail.com<br>📄 Know about my experiences [Just made a School Management System project for DBMS + OOCCJ class.](Just made a DBMS + OOCCJ project.)<br>
 
 
 ## 🌐 Socials:
